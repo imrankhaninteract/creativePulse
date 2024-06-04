@@ -346,7 +346,7 @@ body {
 
 .hero {
   background-image: url("../images/hero-bg-bottom.png"),
-                    url("../images/hero-bg.png"),
+                    url("https://images.pexels.com/photos/238118/pexels-photo-238118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"),
                     var(--gradient-1);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: -280px bottom, center, center;
