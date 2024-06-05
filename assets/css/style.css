@@ -921,6 +921,7 @@ body {
   .header .btn { margin-inline-start: 0; }
 
   .navbar-list {
+    
     display: flex;
     gap: 25px;
   }
